@@ -1,5 +1,5 @@
 body {
-  background-image:url(http://www.vectorfree.com/media/vectors/city-sunrise.jpg);color:white;
+  background-image:url(http://tinyhousegiantjourney.com/wp-content/uploads/2014/12/washington-dc-0003.jpg);color:white;
   background-size:cover;
 }
 img {
@@ -10,10 +10,10 @@ img {
 h1 {font-family: 'Diplomata SC', cursive;
 text-align: center;font-size: 2.5rem}
 
-h2 {text-align: center;color:black
+h2 {text-align: center;color:white
 }
 p{
- color:black
+ color:white
 }
 header {background-color:white;
   text-align:left;
@@ -41,6 +41,10 @@ border-radius:25px;background-position:center; background-repeat:repeat; padding
   text-align:center
 
 }
+#navigation a {
+  margin-top:100px;
+  margin-bottom:500px;
+}
 #section {
   color:white;
   width:350px;
@@ -55,3 +59,7 @@ footer{
   padding:5px;
 
 }
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:green; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
