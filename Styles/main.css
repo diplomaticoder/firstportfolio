@@ -15,7 +15,7 @@ h2 {text-align: center;color:white
 p{
  color:white
 }
-header {background-color:white;
+header {background-color:rgba(255, 255, 255, 0.69);
   text-align:left;
 padding-top:1rem; padding-top: 1rem; margin-bottom: 1.5rem; color:black; content:5rem 5rem 5rem 5rem; border: 10rem 5rem 10rem 5rem;
 border-radius:25px;background-position:center; background-repeat:repeat; padding:20px;height:230px; width:900px; margin-left:auto;margin-right:auto;margin-top:70px}
