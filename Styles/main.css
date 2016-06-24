@@ -46,20 +46,25 @@ border-radius:25px;background-position:center; background-repeat:repeat; padding
   margin-bottom:500px;
 }
 #section {
-  color:white;
   width:350px;
   text-align:center;
-
+  background-color:rgba(255, 255, 255, 0.69);
+padding-top:3rem; margin-bottom: 1.5rem;
+border-radius:30px;
+padding:5px;height:400px; width:900px; margin-left:auto;margin-right:auto;margin-top:70px;
 }
+
 footer{
   background-color: black;
   color:white;
   clear:both;
   text-align:center;
-  padding:5px;
+  padding:10px;
 
 }
 a:link    {color:green; background-color:transparent; text-decoration:none}
 a:visited {color:white; background-color:transparent; text-decoration:none}
 a:hover   {color:green; background-color:transparent; text-decoration:underline}
 a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+
+p {font-color:black}
