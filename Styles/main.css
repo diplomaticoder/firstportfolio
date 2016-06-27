@@ -3,7 +3,7 @@ body {
   background-size:cover;
 }
 img {
-  margin-top: 1rem;position;relativeh1
+  margin-top: 1rem;position:relative;
 {
 }
 }
@@ -16,12 +16,10 @@ p{
  color:black;
 }
 header {background-color:rgba(255, 255, 255, 0.69);
-  text-align:center;
-padding-top:1rem; padding-top: 1rem; margin-bottom: 1rem; color:black;
-border-radius:25px;background-position:center; background-repeat:repeat; padding:20px;height:230px; width:900px; margin-left:auto;margin-right:auto;margin-top:70px}
+  text-align:center; margin-bottom: 1rem; color:black;
+border-radius:25px;background-position:center; background-repeat:repeat; padding:10px 0 0 10px;height:230px; width:900px; margin-left:auto;margin-right:auto;margin-top:50px}
 
 .nav {boarder:1px solid #ccc;
-  border-width: 1px 0;
   text-align: center;}
 .nav li{
 
@@ -31,14 +29,13 @@ border-radius:25px;background-position:center; background-repeat:repeat; padding
   display:inline-block;padding: 10px;
 }
 #navigation{
-  width:100px;
-  height:300px;
-  padding:10px;
-  margin-right:100px;
+  width:160px;
+  height:400px;
+  padding:100px 10px 40px 10px;
+  margin-right:10px;
   background-color:rgba(00,0,0,0.5);
-  color:black;
   float:left;
-  text-align:center
+  text-align:center;
 
 }
 #navigation a {
