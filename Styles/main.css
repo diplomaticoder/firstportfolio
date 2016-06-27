@@ -1,6 +1,6 @@
 body {
   background-image:url(http://tinyhousegiantjourney.com/wp-content/uploads/2014/12/washington-dc-0003.jpg);color:white;
-  background-size:cover;
+  background-size:cover;background-repeat:no-repeat;
 }
 img {
   margin-top: 1rem;position:relative;
